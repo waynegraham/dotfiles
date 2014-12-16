@@ -2,6 +2,7 @@
 # see http://robots.thoughtbot.com/brewfile-a-gemfile-but-for-homebrew
 
 tap josegonzalez/php
+tap homebrew/dupes
 tap Homebrew/python
 
 install caskroom/cask/brew-cask

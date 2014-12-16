@@ -5,6 +5,7 @@ curl -sSL https://get.rvm.io | bash -s stable --ruby
 
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+brew tap homebrew/boneyard
 brew bundle
 brew bundle Caskfile
 
