@@ -13,9 +13,9 @@ cask install iterm2
 cask install macvim
 cask install vlc
 
-cask install qgis
+#cask install qgis
 
-cask install adobe-reader
+#cask install adobe-reader
 cask install alfred
 cask install atom
 cask install boot2docker
@@ -40,5 +40,6 @@ cask install sublime-text
 cask install steam
 cask install things
 cask install torbrowser
+cask install xquartz
 cask install zotero
 

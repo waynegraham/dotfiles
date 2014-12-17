@@ -26,6 +26,7 @@ install node
 install numpy
 install openssl
 install optipng
+install pianobar
 install postgis
 install saxon
 install solr
