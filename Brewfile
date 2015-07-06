@@ -18,6 +18,7 @@ install gdal
 install geoserver
 install git
 install git-flow
+install gpg
 install heroku-toolbelt
 install hub
 install ffmpeg --with-libvorbis

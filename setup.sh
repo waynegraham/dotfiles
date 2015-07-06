@@ -19,3 +19,6 @@ git clone https://github.com/revans/bash-it.git ~/.bash_it
 # install global gems
 ruby global_gems.rb
 
+# rvm gpg signature
+gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
+
