@@ -1,6 +1,6 @@
 #! /usr/bin/env ruby
 
-gems = %w(bundler pws geoloader)
+gems = %w(bundler jekyll pws geoloader)
 
 system "rvm @global do gem install #{gems.join(' ')}"
 
